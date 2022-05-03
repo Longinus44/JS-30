@@ -1,0 +1,29 @@
+ .all{
+     text-align: center;
+ }
+ input{
+     width: 80%;
+     height: 33px;
+     padding: 10px;
+ }
+ input.search{
+     text-align: center;
+     width: 90%;
+     border: 5px solid green;
+     position: relative;
+     top: 10px;
+     z-index: 2;
+     border-radius: 15px;
+     font-size: 35px;
+
+ }
+ span.population{
+     font-size: 18px;
+ }
+ h1{
+     background: blue;
+ }
+ search-form{
+margin: 50px auto;
+max-width: 400px;
+ }
